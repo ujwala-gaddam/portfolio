@@ -1,4 +1,4 @@
-# 🌐 Portfolio Website – Saddala Yogesh
+# 🌐 Portfolio Website – Ujwala Gaddam
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=8B5CF6&size=24&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;AI%2FML+Enthusiast;Building+Clean+and+Scalable+Web+Apps" />
@@ -35,8 +35,7 @@
 ---
 
 ## 🔗 Live Demo
-🌍 https://saddalayogesh.github.io/personal-portfolio-website/  
-
+🌍 https://github.com/ujwala-gaddam/portfolio
 ---
 
 ## 📂 Project Structure
@@ -50,7 +49,7 @@ portfolio/
 ## ⚙️ How to Run
 1. Clone the repository
 ```bash
-git clone https://github.com/Saddalayogesh/personal-portfolio-website.git
+git clone https://github.com/ujwala-gaddam/portfolio
 ```
 
 2. Open `index.html` in your browser
@@ -73,4 +72,4 @@ git clone https://github.com/Saddalayogesh/personal-portfolio-website.git
 ---
 
 ## 👨‍💻 Author
-Saddala Yogesh
+Ujwala Gaddam
